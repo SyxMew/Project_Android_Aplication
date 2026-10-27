@@ -1,0 +1,76 @@
+{
+  "@@locale": "id",
+  "today_food_deals": "Penawaran Makanan Hari Ini",
+  "@today_food_deals": {},
+
+  "popular_items": "Produk Populer",
+  "@popular_items": {},
+
+  "view_all": "Lihat semua",
+  "@view_all": {},
+
+  "search_hint": "Cari . . .",
+  "@search_hint": {},
+
+  "error_loading": "Terjadi kesalahan saat memuat data",
+  "@error_loading": {},
+
+  "create_account": "Buat Akun",
+  "@create_account": {},
+
+  "confirm_password": "Konfirmasi Kata Sandi",
+  "@confirm_password": {},
+
+  "sign_up": "Daftar",
+  "@sign_up": {},
+
+  "fill_all_fields": "Harap isi semua kolom!",
+  "@fill_all_fields": {},
+
+  "password_mismatch": "Kata sandi tidak cocok!",
+  "@password_mismatch": {},
+
+  "already_have_account": "Sudah memiliki akun?",
+  "@already_have_account": {},
+
+  "login": "Masuk",
+  "@login": {},
+
+  "email": "Email",
+  "@email": {},
+
+  "password": "Kata Sandi",
+  "@password": {},
+
+  "sign_in": "Masuk",
+  "@sign_in": {},
+
+  "fill_email": "Harap masukkan email Anda",
+  "@fill_email": {},
+
+  "invalid_email": "Harap masukkan alamat email yang valid",
+  "@invalid_email": {},
+
+  "fill_password": "Harap masukkan kata sandi Anda",
+  "@fill_password": {},
+
+  "no_account": "Belum memiliki akun?",
+  "@no_account": {},
+
+  "paketan": "Paketan",
+  "@paketan": {},
+
+  "makanan": "Makanan",
+  "@makanan": {},
+
+  "minuman": "Minuman",
+  "@minuman": {},
+  "no_food_items_found": "Tidak ada makanan ditemukan.",
+  "@no_food_items_found": {},
+
+  "loading": "Memuat...",
+  "@loading": {}
+  
+
+
+}

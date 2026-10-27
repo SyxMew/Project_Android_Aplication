@@ -1,0 +1,75 @@
+{
+    "@@locale": "en",
+    "today_food_deals": "Today Food Deals",
+    "@today_food_deals": {},
+
+    "popular_items": "Popular Items",
+    "@popular_items": {},
+
+    "view_all": "View all",
+    "@view_all": {},
+
+    "search_hint": "Search . . .",
+    "@search_hint": {},
+
+    "error_loading": "Error loading food items",
+    "@error_loading": {},
+
+    "create_account": "Create Account",
+    "@create_account": {},
+
+    "email": "Email",
+    "@email": {},
+
+    "password": "Password",
+    "@password": {},
+
+    "confirm_password": "Confirm Password",
+    "@confirm_password": {},
+
+    "sign_up": "Sign Up",
+    "@sign_up": {},
+
+    "fill_all_fields": "Please fill all fields!",
+    "@fill_all_fields": {},
+
+    "password_mismatch": "Passwords do not match!",
+    "@password_mismatch": {},
+
+    "already_have_account": "Already have an account? ",
+    "@already_have_account": {},
+
+    "login": "Login",
+    "@login": {},
+
+    "sign_in": "Sign in",
+    "@sign_in": {},
+
+    "fill_email": "Please enter your email",
+    "@fill_email": {},
+
+    "invalid_email": "Please enter a valid email address",
+    "@invalid_email": {},
+
+    "fill_password": "Please enter your password",
+    "@fill_password": {},
+
+    "no_account": "Don't have an account? ",
+    "@no_account": {},
+
+    "paketan": "Pack",
+    "@paketan": {},
+
+    "makanan": "Food",
+    "@makanan": {},
+
+    "minuman": "Drink",
+    "@minuman": {},
+
+    "no_food_items_found": "No food items found.",
+    "@no_food_items_found": {},
+    
+    "loading": "Loading...",
+    "@loading": {}
+  }
+  
